@@ -18,8 +18,8 @@ global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaNRcHSJP219
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaNRcHSJP2199iMQ4W0l";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/logo.jpg";
 global.devs = "923072380380";
-global.sudo = process.env.SUDO || "923072380380";
-global.owner = process.env.OWNER_NUMBER || "923072380380";
+global.sudo = process.env.SUDO || "233247923525";
+global.owner = process.env.OWNER_NUMBER || "233247923525";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -27,7 +27,7 @@ global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "false";
-global.userImages = process.env.USER_IMAGES || "";
+global.userImages = process.env.USER_IMAGES || "true";
 global.waPresence = process.env.WAPRESENCE || "available";
 global.readcmds = process.env.READ_COMMAND || "true";
 global.readmessage = process.env.READ_MESSAGE || "false";
@@ -57,7 +57,7 @@ global.SESSION_ID =
 
 
   
-  "Your session ID" //Make sure session id starts with Byte;;;
+  "Byte;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidU1RNXAvWFAzMTMySEZLcFQ1RTJvb1dzMHNHeitZVDdXVG5qL05UQU1YND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibDJsQ0xvaE56cnJRSEtCUStpOEVaT0pROVlwZFBtOU5aWUI4c0hhcTJHUT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBSHJpKzdocnZtbEZObWFKSHNKa3puRkh4a3Y1cnJiVmcvVmV0ZVM3TTN3PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJmamUyL09DT0hPLzNhbHE3UkxpemxUNTFES0ZaQnVnc2Y2WitBOG1YOEZjPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1FQ0hXc1hCdzRzUlZXYzhiblUxQ2ZsMEtiYVNiL0dmelZTODNpQlFGME09In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImtYL3Z1Vno2RmcyVVA2d2RlOWZ1ajBQWk03REQ3ZjJNc2VlVmVNSEIxeEU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUIyVU1SaFRqaG92K3pkeitqNXVITDVpN3ozcWJQcU13emlVU0lBMTMyVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZVZUcDhvcGJSNEE2RDBNMWdpWFM2RnhaejZhM3FjVVNVcGpqallEQUJ6ND0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Imw1d291ellFZjY0YmtxYTQyWVR5QTZFS2MvbGdQNXdCMUZ4RHVaZU1oMVVyYTFHdmVsdEFIYVFVUk5RendwUDFJZ3QvalNEeXdtQnZBRXNYNTg0Q0F3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NywiYWR2U2VjcmV0S2V5IjoiNmJYVzEwM2hvWGVzK2FYMTRWejVmTWF2OG8vV3hyUnZpTWpkTlg5K2hPaz0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOltdLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiREFpcnBCMWJSNjJUTTBCV1g5cnFxQSIsInBob25lSWQiOiI1NTNjNTFiMy0wODFkLTQ1MzEtYTdkZC04MWY1ZmViMzJjYWUiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOS9QL3IwOVV5SjNrN3hST3dVNDljWnJiOVlRPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjFNRUV1UXlhQlRjYVYrY1JpcEZRTlhKVzZKcz0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiJNSzk5U1hGViIsIm1lIjp7ImlkIjoiMjMzMjQ3OTIzNTI1OjQ4QHMud2hhdHNhcHAubmV0In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNKS3F3K2dGRU1pOW43VUdHQWtnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiI2cVhsVXBwN2RpTnpxeTIyQnhPYVpOUHFhU20xaEMxSkxpRFBlL0lUN2xrPSIsImFjY291bnRTaWduYXR1cmUiOiJlVEtMNHMvNDZhNWlRS3ZWMTNpNHJEUTN5S1lRVExhZy9aVmJyMUlvYXdNYk1Pb2xSdVBYWk1wYmxXRG9kaDNhUStwdHEyc2NwZmx6UHV3TUlTa1ZCQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiS2MxL1NWbm9RQ0piM3BxMFBhZDNzTXIranVla0tPcXFaQ1pZSWExaDhhOXkwdG91SkViNzEvN0lHbHd5OG5ncXlHc0ZoZEowODhESitIZ1o0ODB5QUE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzMyNDc5MjM1MjU6NDhAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCZXFsNVZLYWUzWWpjNnN0dGdjVG1tVFQ2bWtwdFlRdFNTNGd6M3Z5RSs1WiJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMjI3NzU4OCwibXlBcHBTdGF0ZUtleUlkIjoiQUFjQUFEcm8ifQ==" //Make sure session id starts with Byte;;;
 
 
 
@@ -78,11 +78,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "*Powered By TalkDrove*",
-  author: process.env.PACK_AUTHER || "TalkDrove",
+  caption: process.env.CAPTION || "*Powered By MRWILLTECH*",
+  author: process.env.PACK_AUTHER || "MRWILLTECH",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "BYTE-MD",
-  ownername: process.env.OWNER_NAME || "TalkDrove",
+  botname: process.env.BOT_NAME || "MRWILLTECH",
+  ownername: process.env.OWNER_NAME || "MRWILLTECH",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
